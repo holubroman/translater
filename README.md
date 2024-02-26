@@ -26,15 +26,3 @@ capabilities into your Umbraco applications, ensuring that your content can reac
   "ApiKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 }
 ```
-
-## Demo
-
-#### Screenshot 1:
-![Screenshot 1](https://raw.githubusercontent.com/Smayke95/Umbraco.GoogleTranslate/master/Screenshot_1.jpg)
-
-#### Screenshot 2:
-![Screenshot 2](https://raw.githubusercontent.com/Smayke95/Umbraco.GoogleTranslate/master/Screenshot_2.jpg)
-
-## Licence
-
-Project is licensed under the [MIT License](https://github.com/Smayke95/Umbraco.GoogleTranslate/blob/master/LICENSE)
