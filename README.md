@@ -26,3 +26,10 @@ capabilities into your Umbraco applications, ensuring that your content can reac
   "ApiKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 }
 ```
+
+#### Screenshot 1:
+![image](https://github.com/holubroman/translater/assets/156955447/daaaba1a-ce10-4660-98a2-5d980bc52643)
+
+
+#### Screenshot 2:
+![image](https://github.com/holubroman/translater/assets/156955447/aaa803e7-2887-40a0-905b-be78ef74d40f)
