@@ -30,11 +30,8 @@ capabilities into your Umbraco applications, ensuring that your content can reac
 ## Demo
 
 #### Screenshot 1:
-![Screenshot 1](https://raw.githubusercontent.com/Smayke95/Umbraco.GoogleTranslate/master/Screenshot_1.jpg)
+![image](https://github.com/holubroman/translater/assets/156955447/741f4ec4-3988-4078-8c89-65a2b8845cbc)
+
 
 #### Screenshot 2:
-![Screenshot 2](https://raw.githubusercontent.com/Smayke95/Umbraco.GoogleTranslate/master/Screenshot_2.jpg)
-
-## Licence
-
-Project is licensed under the [MIT License](https://github.com/Smayke95/Umbraco.GoogleTranslate/blob/master/LICENSE)
+![image](https://github.com/holubroman/translater/assets/156955447/0829769e-1b45-41b1-84c3-37282f5ad6d1)
